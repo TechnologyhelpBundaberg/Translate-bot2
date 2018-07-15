@@ -12,7 +12,7 @@
 
 
 
-exports.token = "";
+exports.token = "NDY3ODcyMTQ3OTQ4MzA2NDMz.Diw7aA.skQaeJ70LFKxmuJDcSUU2UanSv4";
 
 
 
@@ -28,7 +28,7 @@ exports.token = "";
 
 
 
-exports.botOwner = "";
+exports.botOwner = "292871335305019394";
 
 
 
@@ -40,7 +40,7 @@ exports.botOwner = "";
 
 
 
-exports.invite = "";
+exports.invite = "https://discordapp.com/api/oauth2/authorize?client_id=467872147948306433&permissions=8&scope=bot";
 
 
 
